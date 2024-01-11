@@ -1,6 +1,8 @@
 ➻➣➤➥➟➞➛➜➝➘⤵️➾➽➼➷➳➯➮➭➱➘➔➕➖➗➘➙➚➛➜➝➞➟➠➡️➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾□▢▣▤▥▦▧▨▩▪️▫️▬▭ ▭ ▬ ▮▯▰▱▲△▴▵▶️▷▼▻►▹▸▽▾▿◀️◁◂◃◄◅◆◇◈◉◊○◦●◎◍◌
 
-[![GitHub](https://img.shields.io/badge/Bereket?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)
+[![GitHub](https://img.shields.io/badge/bereket/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)
+
+[![GitHub](https://img.shields.io/badge/bereket-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha) 
 
 [![Profile](https://badgen.net/badge/Authoured_By/:Bereket_Dereje_Mekonnen/blue?logo=facebook)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 

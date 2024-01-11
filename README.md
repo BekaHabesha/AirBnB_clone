@@ -6,6 +6,9 @@
 
 [![Facebook](https://img.shields.io/badge/bereket_dereje-0866FF.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.facebook.com/bereketdere)     
 
+[![Facebook](https://img.shields.io/badge/ -0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
+[![Facebook](https://img.shields.io/badge/bdm-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
+
 [![Facebook](https://img.shields.io/badge/bereket_dereje-0866FF.svg?style=for-the-badge&logo=github&logoColor=yellow)](https://www.facebook.com/bereketdere)    
 
 [![GitHub](https://img.shields.io/badge/bereket-%23121011.svg?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/BekaHabesha) 

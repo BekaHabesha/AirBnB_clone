@@ -1,5 +1,9 @@
 ➻➣➤➥➟➞➛➜➝➘⤵️➾➽➼➷➳➯➮➭➱➘➔➕➖➗➘➙➚➛➜➝➞➟➠➡️➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾□▢▣▤▥▦▧▨▩▪️▫️▬▭ ▭ ▬ ▮▯▰▱▲△▴▵▶️▷▼▻►▹▸▽▾▿◀️◁◂◃◄◅◆◇◈◉◊○◦●◎◍◌
 
+[![Ubuntu](https://img.shields.io/badge/bereket_dereje-E95420?style=for-the-badge&logo=github&logoColor=lime)](https://github.com/BekaHabesha)
+
+[![Ubuntu](https://img.shields.io/badge/bereket_dereje-E95420?style=for-the-badge&logo=ubuntu&logoColor=blue)](https://github.com/BekaHabesha)
+
 [![Facebook](https://img.shields.io/badge/bereket_dereje-0866FF.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.facebook.com/bereketdere)     
 
 [![Facebook](https://img.shields.io/badge/bereket_dereje-0866FF.svg?style=for-the-badge&logo=github&logoColor=yellow)](https://www.facebook.com/bereketdere)    

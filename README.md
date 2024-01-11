@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/Bereket_Dereje-Yemu_Beki-blue)
 [![Profile](https://img.shields.io/badge/Author_Bereket_Dereje-Social_Media_Adress-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
-
+[![Profile](https://img.shields.io/badge/Author%20-8A2BE2-Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/green-Author-Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/Author-Bereket_Dereje-blue-green)](https://intranet.alxswe.com/users/Bereke    t_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/red-Author-Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereke    t_Dereje_Mekonnen)

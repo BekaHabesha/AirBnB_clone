@@ -1,3 +1,19 @@
+[![GitHub](https://img.shields.io/badge/Bereket_Dereje-005571.svg?style=for-the-badge&logo=Beats&logoColor=white)](https://github.com/BekaHabesha) 
+
+[![GitHub](https://img.shields.io/badge/Bereket_Dereje-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/BekaHabesha) 
+
+[![GitHub](https://img.shields.io/badge/Bereket_Dereje-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://github.com/BekaHabesha) 
+
+
+[![GitHub](https://img.shields.io/badge/-005571.svg?style=for-the-badge&logo=Beats&logoColor=white)](https://github.com/BekaHabesha) 
+[![GitHub](https://img.shields.io/badge/-005571.svg?style=for-the-badge&logo=Beats&logoColor=lime)](https://github.com/BekaHabesha) 
+
+[![GitHub](https://img.shields.io/badge/-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/BekaHabesha) 
+[![GitHub](https://img.shields.io/badge/-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=blue)](https://github.com/BekaHabesha) 
+
+[![GitHub](https://img.shields.io/badge/-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://github.com/BekaHabesha)
+[![GitHub](https://img.shields.io/badge/-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=yellow)](https://github.com/BekaHabesha)
+
 ➻➣➤➥➟➞➛➜➝➘⤵️➾➽➼➷➳➯➮➭➱➘➔➕➖➗➘➙➚➛➜➝➞➟➠➡️➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾□▢▣▤▥▦▧▨▩▪️▫️▬▭ ▭ ▬ ▮▯▰▱▲△▴▵▶️▷▼▻►▹▸▽▾▿◀️◁◂◃◄◅◆◇◈◉◊○◦●◎◍◌
 
 [![Ubuntu](https://img.shields.io/badge/bereket_dereje-E95420?style=for-the-badge&logo=github&logoColor=lime)](https://github.com/BekaHabesha)

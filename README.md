@@ -61,6 +61,16 @@
 [![Profile](https://img.shields.io/badge/💻_Bereket_Dereje_🖊️-Contact_Me_With⤵️-orange)](https://intranet.alxswe.com/u    sers/Bereket_Dereje_Mekonnen)
 
 
+[![Profile](https://img.shields.io/badge/💻_Bereket_Dereje_🖊️📝-Contact_Me_With-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)⤵️
+
+[![Profile](https://img.shields.io/badge/💻_Bereket_Dereje_✏️-Contact_Me_With-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)⏭️⏩▶️⏬⤵️🔻
+
+[![Profile](https://img.shields.io/badge/💻_Bereket_Dereje_✏️-Contact_Me_With-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)➖➡️➡️↘️⬇️⤵️
+
+
+
+
+
 
 [![Profile](https://img.shields.io/badge/You_can_Contact-Author_Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/With%20-8A2BE2)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)

@@ -1,4 +1,5 @@
 ➻➣➤➥➟➞➛➜➝➘⤵️➾➽➼➷➳➯➮➭➱➘➔➕➖➗➘➙➚➛➜➝➞➟➠➡️➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾□▢▣▤▥▦▧▨▩▪️▫️▬▭ ▭ ▬ ▮▯▰▱▲△▴▵▶️▷▼▻►▹▸▽▾▿◀️◁◂◃◄◅◆◇◈◉◊○◦●◎◍◌
+[![Profile](https://badgen.net/badge/Bereket/Dereje/blue?icon=github)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)
 [![GitHub](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/BekaHabesha)

@@ -1,6 +1,14 @@
 ➻➣➤➥➟➞➛➜➝➘⤵️➾➽➼➷➳➯➮➭➱➘➔➕➖➗➘➙➚➛➜➝➞➟➠➡️➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾□▢▣▤▥▦▧▨▩▪️▫️▬▭ ▭ ▬ ▮▯▰▱▲△▴▵▶️▷▼▻►▹▸▽▾▿◀️◁◂◃◄◅◆◇◈◉◊○◦●◎◍◌
 
-[![GitHub](https://img.shields.io/badge/bereket/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)
+[![GitHub](https://img.shields.io/badge/bereket-%23121011.svg?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/BekaHabesha) 
+
+[![GitHub](https://img.shields.io/badge/bereket dereje-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)  
+
+[![Facebook](https://img.shields.io/badge/bereket-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
+
+[![Telegram](https://img.shields.io/badge/bereket-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/FootBall_Manager_Agent_BEREKET_D)   
+
+[![GitHub](https://img.shields.io/badge/bereket dereje-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha)
 
 [![GitHub](https://img.shields.io/badge/bereket-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekaHabesha) 
 

@@ -38,8 +38,7 @@
 [![Profile](https://img.shields.io/badge/Author_Bereket_Dereje-Social_Media_Adress-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
 
-# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$ <br>
-$$\mathbb{\color{green}\Huge\ {0x00.} \ \color{teal}{AirBnB \ clone} \ \color{green}{-} \ \color{teal}{The \ console}\}$$$
+# $$\mathbb{\color{teal}\Huge\ {README.md} \ \color{Green}{FILE}}$$ <br>$$\mathbb{\color{green}\Huge\ {0x00.} \ \color{teal}{AirBnB \ clone} \ \color{green}{-} \ \color{teal}{The \ console}\}$$$
 
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)

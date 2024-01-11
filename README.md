@@ -42,6 +42,12 @@
 
 [![Profile](https://img.shields.io/badge/You_can_Contact-Author_Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)[![Profile](https://img.shields.io/badge/With%20-8A2BE2)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)[![Profile](https://img.shields.io/badge/This-Social_Media_Adresses-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
+[![Profile](https://img.shields.io/badge/Author_Bereket_Dereje-You_Can_Contact_Me_With_This_Social_Media_Adresses-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+
+[![Profile](https://img.shields.io/badge/Author_Bereket_Dereje-Contact_Me_With_This_Social_Media_Adresses-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+
+[![Profile](https://img.shields.io/badge/Author_Bereket_Dereje-Contact_Me_With_This_Social_Media_Adresses-lime)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+
 
 [![Profile](https://img.shields.io/badge/You_can_Contact-Author_Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/With%20-8A2BE2)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)

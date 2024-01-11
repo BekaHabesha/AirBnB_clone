@@ -37,10 +37,17 @@
 ![](https://img.shields.io/badge/Bereket_Dereje-Yemu_Beki-blue)
 [![Profile](https://img.shields.io/badge/Author_Bereket_Dereje-Social_Media_Adress-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
-[![Profile](https://img.shields.io/badge/red-Author-Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereke    t_Dereje_Mekonnen)
+[![Profile](https://img.shields.io/badge/Author-Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereke    t_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/Contact%20Me%20With-8A2BE2)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/This-Social_Media_Adresses-green)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
+
+[![Profile](https://img.shields.io/badge/You_can_Contact-Author_Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)[![Profile](https://img.shields.io/badge/With%20-8A2BE2)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)[![Profile](https://img.shields.io/badge/This-Social_Media_Adresses-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+
+
+[![Profile](https://img.shields.io/badge/You_can_Contact-Author_Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+[![Profile](https://img.shields.io/badge/With%20-8A2BE2)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+[![Profile](https://img.shields.io/badge/This-Social_Media_Adresses-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
 [![Profile](https://img.shields.io/badge/Author-Bereket_Dereje-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 [![Profile](https://img.shields.io/badge/You_can-Contact_Me-blue)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)

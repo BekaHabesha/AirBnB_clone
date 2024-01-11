@@ -1,6 +1,8 @@
 ➻➣➤➥➟➞➛➜➝➘⤵️➾➽➼➷➳➯➮➭➱➘➔➕➖➗➘➙➚➛➜➝➞➟➠➡️➢➣➤➥➦➧➨➩➪➫➬➭➮➯➰➱➲➳➴➵➶➷➸➹➺➻➼➽➾□▢▣▤▥▦▧▨▩▪️▫️▬▭ ▭ ▬ ▮▯▰▱▲△▴▵▶️▷▼▻►▹▸▽▾▿◀️◁◂◃◄◅◆◇◈◉◊○◦●◎◍◌
 
-[![Profile](https://badgen.net/badge/Authour/Bereket/Dereje/Mekonnen/blue?icon=github)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+[![Profile](https://badgen.net/badge/Authoured By/Bereket Dereje Mekonnen/blue?icon=ubuntu)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+
+[![Profile](https://badgen.net/badge/Authoured By/Bereket Dereje Mekonnen/blue?icon=linux)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 
 [![Profile](https://badgen.net/badge/Authour/Bereket_Dereje/blue?icon=github)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
 

@@ -1,5 +1,8 @@
 * To Clone the repository use git clone    
-  * `**git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git**`
+  * **`git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git`**
+  * `__git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git__`
+  * `git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git`
+  * **git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git**
 
 [![GitHub](https://img.shields.io/badge/Bereket_Dereje-005571.svg?style=for-the-badge&logo=Beats&logoColor=white)](https://github.com/BekaHabesha) 
 

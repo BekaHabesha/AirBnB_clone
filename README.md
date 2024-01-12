@@ -8,15 +8,14 @@
 [![Documentation](https://img.shields.io/badge/Bereket-Dereje-purple?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)  
 
 
+[![Documentation](https://img.shields.io/badge/.-Docu-lightblue?logo=ubuntu&logoColor=yellow)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
-[![Documentation](https://img.shields.io/badge/-Docu-lightblue?logo=ubuntu&logoColor=yellow)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
+[![Documentation](https://img.shields.io/badge/ /-Bereket_Dereje-lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
-[![Documentation](https://img.shields.io/badge/logo=github&logoColor=red-Bereket_Dereje-lightblue?)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![Documentation](https://img.shields.io/badge/_-Bereket_Dereje-pink?logo=visualstudiocode&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
-[![Documentation](https://img.shields.io/badge&logo=twitter&logoColor=lime/-Bereket_Dereje-pink?logo=visualstudiocode&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
-
-[![Documentation](https://img.shields.io/badge/logo=twitter&logoColor=lime-Bereket_Dereje_mekonnen-purple?)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![Documentation](https://img.shields.io/badge/ -Bereket_Dereje_mekonnen-purple?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
 0x03 Installation
 

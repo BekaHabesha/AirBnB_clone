@@ -3,7 +3,7 @@
 
 [![Documentation](https://img.shields.io/badge/GitBook-Docu-lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
-[![Documentation](https://img.shields.io/badge/Bereket-Dereje-pink?logo=visco&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![Documentation](https://img.shields.io/badge/Bereket-Dereje-pink?logo=visualstudiocode&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
 [![Documentation](https://img.shields.io/badge/Bereket-Dereje-purple?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)  
 

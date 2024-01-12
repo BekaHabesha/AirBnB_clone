@@ -1,3 +1,6 @@
+* To Clone the repository use git clone    
+  * `**git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git**`
+
 [![GitHub](https://img.shields.io/badge/Bereket_Dereje-005571.svg?style=for-the-badge&logo=Beats&logoColor=white)](https://github.com/BekaHabesha) 
 
 [![GitHub](https://img.shields.io/badge/Bereket_Dereje-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/BekaHabesha) 

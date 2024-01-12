@@ -8,12 +8,12 @@
 [![Documentation](https://img.shields.io/badge/Bereket-Dereje-purple?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)  
 
 
-[![Documentation](https://img.shields.io/badge/ /Bereket/lightblue?logo=ubuntu&logoColor=yellow)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![Documentation](https://img.shields.io/badge/Bereket/lightblue?logo=ubuntu&logoColor=yellow)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
 
-[![Documentation](https://img.shields.io/badge/logo-Bereket_Dereje-lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![Documentation](https://img.shields.io/badge/-Bereket_Dereje%lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
-[![Documentation](https://img.shields.io/badge/logo=visualstudiocode-Bereket_Dereje-pink?/logo=visualstudiocode&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+[![Documentation](https://img.shields.io/badge/-Bereket_Dereje?pink-logo=visualstudiocode&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
 [![Documentation](https://img.shields.io/badge/?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 

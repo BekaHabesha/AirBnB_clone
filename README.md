@@ -1,3 +1,6 @@
+[![Profile](https://badgen.net/badge/Authour/Bereket_Dereje/blue?icon=github&iconColor=red)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+[![Profile](https://badgen.net/badge/Authour/Bereket_Dereje/blue?logo=github&logoColor=red)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)
+
 0x03 Installation
 
 ### Clone The Repository

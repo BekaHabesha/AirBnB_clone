@@ -1,3 +1,70 @@
+0x03 Installation
+
+### Clone The Repository
+* To Clone the repository of **"https://github.com/BekaHabesha/AirBnB_clone.git"** 
+  * **`git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git`**
+* To Access AirBnb directory: 
+  * **`cd AirBnB_clone`**
+* To Run hbnb(interactively): 
+  * **`./console and enter command
+* To Run hbnb(non-interactively): 
+  * **`echo "<command>" | ./console.py
+
+### Execution
+* In Interactive Mode
+```js
+        $ ./console.py
+        (hbnb) help
+
+        Documented commands (type help <topic>):
+        ========================================
+        EOF  help  quit
+
+        (hbnb)
+        (hbnb)
+        (hbnb) quit
+        $
+```
+
+* In Non-Interactive Mode
+```js
+        $ echo "help" | ./console.py
+        (hbnb)
+
+        Documented commands (type help <topic>):
+        ========================================
+        EOF  help  quit
+        (hbnb)
+        $
+        $ cat test_help
+        help
+        $
+        $ cat test_help | ./console.py
+        (hbnb)
+
+        Documented commands (type help <topic>):
+        ========================================
+        EOF  help  quit
+        (hbnb)
+        $
+```
+
+0x04 Testing
+
+* All the test files should be inside a folder tests
+All the test are defined in the tests folder.
+
+## Python Scripts
+### Documentation
+* All Documentation should have
+  * Modules: 
+    * **`python3 -c 'print(__import__("my_module").__doc__)'`**
+  * Classes:  
+    * **`python3 -c 'print(__import__("my_module").MyClass.__doc__)'**
+  * Functions (inside and outside a class):  
+    * **`python3 -c 'print(__import__("my_module").my_function.__doc__)'`**
+    * **`python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'
+`**
 * To Clone the repository use git clone    
   * **`git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git`**
   * `__git clone https://ghp_N6Ogzlr4.....R0h2fHR@github.com/BekaHabesha/AirBnB_clone.git__`

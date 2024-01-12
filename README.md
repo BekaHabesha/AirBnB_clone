@@ -6,9 +6,9 @@
 * To Access AirBnb directory: 
   * **`cd AirBnB_clone`**
 * To Run hbnb(interactively): 
-  * **`./console and enter command
+  * **`./console and enter command`**
 * To Run hbnb(non-interactively): 
-  * **`echo "<command>" | ./console.py
+  * **`echo "<command>" | ./console.py`**
 
 ### Execution
 * In Interactive Mode

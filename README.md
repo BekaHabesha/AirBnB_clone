@@ -1,3 +1,5 @@
+[![Documentation](https://img.shields.io/badge/GitBook-Docu-lightblue?logo=ubuntu&logoColor=yellow)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
+
 [![Documentation](https://img.shields.io/badge/GitBook-Docu-lightblue?icon=github)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 [![Documentation](https://img.shields.io/badge/GitBook-Docu-lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 [![Profile](https://badgen.net/badge&logo=github&logoColor=red/Authour/Bereket_Dereje/blue?)](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)

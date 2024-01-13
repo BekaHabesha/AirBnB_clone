@@ -1,3 +1,5 @@
+[![Facebook](https://img.shields.io/badge/-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white-%Dereje%20Mekonenn-brightblue.svg)](https://www.facebook.com/bereketdere)
+
 [![Facebook](https://img.shields.io/badge/-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white-%Dereje%20Mekonenn-brightblue)](https://www.facebook.com/bereketdere)
 
 [![Documentation](https://img.shields.io/badge/Bereket_Dereje-Full_Stack-lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)

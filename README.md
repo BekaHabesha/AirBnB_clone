@@ -21,6 +21,10 @@
 [![License: MPL 2.0](https://img.shields.io/badge/_-Dereje%20Mekonenn-brightblue.svg?logo=github&logoColor=red)](https://opensource.org/licenses/MPL-2.0)
 
 
+[![License: MPL 2.0](https://img.shields.io/badge/%brightblue.svg?-Dereje%20Mekonenn-logo=github&logoColor=red)](https://opensource.org/licenses/MPL-2.0)
+
+[![License: MPL 2.0](https://img.shields.io/badge/%Dereje%20Mekonenn-brightblue.svg?logo=github&logoColor=red)](https://opensource.org/licenses/MPL-2.0)
+
 0x03 Installation
 
 ### Clone The Repository

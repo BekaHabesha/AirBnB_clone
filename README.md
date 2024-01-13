@@ -10,6 +10,12 @@
 
 [![Documentation](https://img.shields.io/badge/.-Docu-lightblue?logo=ubuntu&logoColor=orange)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/) [![Documentation](https://img.shields.io/badge/@-Bereket_Dereje-lightblue?logo=github&logoColor=red)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/) [![Documentation](https://img.shields.io/badge/*-Bereket_Dereje-pink?logo=visualstudiocode&logoColor=green)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/) [![Documentation](https://img.shields.io/badge/=-Bereket_Dereje_mekonnen-purple?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/) [![Documentation](https://img.shields.io/badge/+-Bereket_Dereje_mekonnen-purple?logo=twitter&logoColor=lime)](https://sulstice.gitbook.io/globalchem-your-chemical-graph-network/)
 
+
+[![License: MPL 2.0](https://img.shields.io/badge/BMM-Bereket%20Dereje-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+[![License: MPL 2.0](https://img.shields.io/badge/Bereket-Dereje%20Mekonenn-brightgreen.svg?logo=github&logoColor=red)](https://opensource.org/licenses/MPL-2.0)
+
+
 0x03 Installation
 
 ### Clone The Repository

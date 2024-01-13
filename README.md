@@ -1,3 +1,7 @@
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+[![bereket](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
 [![Facebook](https://img.shields.io/badge/-%Dereje%20Mekonenn-brightblue.svg-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
 
 [![Facebook](https://img.shields.io/badge/Bereket-%Dereje%20Mekonenn-brightblue.svg-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)

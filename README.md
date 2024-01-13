@@ -1,3 +1,8 @@
+[![Facebook](https://img.shields.io/badge/-%Dereje%20Mekonenn-brightblue.svg-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
+
+[![Facebook](https://img.shields.io/badge/Bereket-%Dereje%20Mekonenn-brightblue.svg-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bereketdere)
+
+
 [![Facebook](https://img.shields.io/badge/-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white-%Dereje%20Mekonenn-brightblue.svg)](https://www.facebook.com/bereketdere)
 
 [![Facebook](https://img.shields.io/badge/-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white-%Dereje%20Mekonenn-brightblue)](https://www.facebook.com/bereketdere)

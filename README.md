@@ -12,7 +12,6 @@
 * **Author: 🖊** 🎖 [***Bereket Dereje Mekonnen***](https://intranet.alxswe.com/users/Bereket_Dereje_Mekonnen)👨🏽‍💻
 * **Project Title:💻**  🔠 [**0x00. AirBnB clone - The console**](https://intranet.alxswe.com/projects/263) 🔡
 * **GitHub repository:🗄** 📦 [**AirBnB_clone**](https://github.com/BekaHabesha/AirBnB_clone)
-
 * **Project Tasks:📚** <ins>**🛑Mandatory♨️ and ‼️Advanced⁉️**</ins>
 * **Tasks in number:🔢** <ins>**18 Tasks (11-Mandatory & 7-Advanced)**</ins>
 * **🛑Mandatory_Tasks:♨️** <ins>**From Task 0 to 10**</ins>
@@ -232,9 +231,9 @@ $
 <H2> <ins>Commands</ins> 📱</H2>
 
 | <H3 align="center">NO.</H3> | <H3 align="center">Command<br> /Method/</H3> | <H3 align="center">Usage</H3> | <H3 align="center">Description</H3> | <H3 align="center">output<br>example</H3> |
-| :----: | :----:| :---- | :---- |
-|   |   |   |   |
-|   |   |   |   |
+| :----: | :----:| :---- | :---- | :---- |
+|   |   |   |   |   |
+|   |   |   |   |   |
 | **0** | [**create**](./console.py) | **create <class>** | **Creates an instance<br>according to<br>a given class** | **(hbnb) create BaseModel<br>9gq32x7-w569-1rc2-sz51-3211513d4683<br>(hbnb)** |
 | **1** | [**Show**](./console.py) | **show <class> <id>** | **Prints the string<br>representation of an instance<br>based on the class<br>name and id** | **(hbnb) show BaseModel 6cfb47c4-a434-4da7-ac03-2122624c3762<br>[BaseModel] (a) [BaseModel] (6cfb47c4-a434-4da7-ac03-2122624c3762) {'id': '6cfb47c4-a434-4da7-ac03-2122624c3762', 'created_at': datetime.datetime(2021, 11, 14, 3, 28, 45, 571360), 'updated_at': datetime.datetime(2021, 11, 14, 3, 28, 45, 571389)}<br>(hbnb)** |
 | **2** | [**all**](./console.py) | **** | **Prints all string<br>representation of all<br>instances of<br>a given class.<br>If no class is passed,<br>all classes are printed.** | **(hbnb) create BaseModel<br>e45ddda9-eb80-4858-99a9-226d4f08a629<br>(hbnb) all BaseModel<br>["[BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) [BaseModel] (4c8f7ebc-257f-4ed1-b26b-e7aace459897) {'id': '4c8f7ebc-257f-4ed1-b26b-e7aace459897', 'created_at': datetime.datetime(2021, 11, 13, 22, 19, 19, 447155), 'updated_at': datetime.datetime(2021, 11, 13, 22, 19, 19, 447257), 'name': 'My First Model', 'my_number': 89}"]<br>["[BaseMode** |
@@ -266,4 +265,4 @@ $
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@fifa_football_agent_bereket) 
 
-##
+## 

@@ -39,13 +39,13 @@
 <H2> ⛓🪜 <ins>0x00.Table of contents</ins> 🪜🛒 </H2>
 
 * [**0x01. Introduction**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x08.%20Authors-,0x01.%20Introduction,-0x00.%20AirBnB%20clone)
-* [**0x02. Description**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=delete%2C%20update%20them).-,0x02.%20Description,-This%20is%20the)
+* [**0x02. Description**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x02.-,Description,-This%20is%20the)
 * [**0x03. Command Interpreter**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=classes%20and%20subclasses.-,0x03.%20Command%20Interpreter,-The%20console%20is)
 * [**0x04. Environment**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=Destroy%20an%20object-,0x04.%20Environment,-All%20the%20development)
 * [**0x05. Installation**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=PEP8-,0x05.%20Installation,-Clone%20The%20Repository)
-* [**0x06. Testing**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=hbnb)%0A%20%20%20%20%20%20%20%20%24-,0x06.%20Testing,-All%20the%20test)
+* [**0x06. Testing**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x06.-,Testing,-All%20the%20test)
 * [**0x07. Usage**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=tests%22%20%7C%20bash%20command-,0x07.%20Usage,-Start%20the%20console)
-* [**0x08. Authors**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=hbnb)%20quit%0A%24-,0x07.%20Authors,-%E2%A4%B5%EF%B8%8F)
+* [**0x08. Authors**](https://github.com/BekaHabesha/AirBnB_clone/blob/main/README.md#:~:text=0x08.-,Authors,-%E2%A4%B5%EF%B8%8F)
 
 ###
 

@@ -18,11 +18,6 @@
 * **🛑Mandatory_Tasks:♨️** <ins>**From Task 0 to 8**</ins>
 * **‼️Advanced_Tasks:⁉️** <ins>**From Task 9 to 12**</ins>
 
-###
-
-### [*0x00. AirBnB clone - The console*](https://intranet.alxswe.com/projects/263) *is a Team Project to be done in teams of 2 people or alone (solo)*
-* ***Done by:*** ***Bereket Dereje Mekonnen***
-
 ##
 
 ## <ins>**PROJECT_TITLE</ins>: 💻**  🔠 [**0x01. AirBnB clone - Web static**](https://intranet.alxswe.com/projects/268) 🔡
